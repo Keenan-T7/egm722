@@ -2,6 +2,7 @@ import random
 
 # pick a random number for the user to guess
 rand = random.randint(1, 20)
+count = 1
 
 print('Guess a number between 1 and 20.')
 guess = int(input())  # number needs to be an integer
@@ -14,5 +15,7 @@ while guess != rand:  # if the guess is not equal to the random number, you have
 
     print('Enter a new guess: ')
     guess = int(input())
+    count = count + 1
 
 print('You got it! The number was {}'.format(rand))
+print ('You took {} guesses'.format(count))
