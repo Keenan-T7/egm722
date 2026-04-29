@@ -2,7 +2,7 @@ import pandas as pd
 import geopandas as gpd
 import folium
 
-lon, lat = -6.4112091, 54.620593
+lon, lat = -6.4112091, 54.620593 # 
 
 zoom_start = 8
 
