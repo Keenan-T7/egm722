@@ -1,10 +1,10 @@
-﻿LGDCode,CouncilArea,ClosestED,RouteLength_km,Population
+﻿Code,CouncilArea,ClosestED,RouteLength_km,Population
 N09000001,Antrim and Newtownabbey,Antrim Area Hospital,5.54,"145,661"
 N09000002,"Armagh City, Banbridge and Craigavon",Craigavon Area Hospital,13.21,"218,656"
 N09000003,Belfast,Royal Victoria Hospital,0.77,"345,418"
-N09000004,Causeway Coast and Glens,Causeway Area Hospital,9.10,"141,746"
+N09000004,Causeway Coast and Glens,Causeway Area Hospital,9.1,"141,746"
 N09000005,Derry City and Strabane,Altnagelvin,31.29,"150,756"
-N09000006,Fermanagh and Omagh,South West Acute Hospital,15.60,"116,812"
+N09000006,Fermanagh and Omagh,South West Acute Hospital,15.6,"116,812"
 N09000007,Lisburn and Castlereagh,Royal Victoria Hospital,13.16,"149,106"
 N09000008,Mid and East Antrim,Antrim Area Hospital,23.48,"138,994"
 N09000009,Mid Ulster,Craigavon Area Hospital,41.44,"150,293"
